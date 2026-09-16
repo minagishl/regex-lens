@@ -15,20 +15,20 @@ Edit a pattern, see each fragment colored by its role, hover for what it does, a
 ## Develop
 
 ```bash
-npm install
-npm run dev
+bun install
+bun run dev
 ```
 
 ## Scripts
 
 | Command           | Description                             |
 | ----------------- | --------------------------------------- |
-| `npm run dev`     | Start the Vite dev server               |
-| `npm run build`   | Type-check and build for production     |
-| `npm run preview` | Preview the production build            |
-| `npm run lint`    | Run ESLint                              |
-| `npm run format`  | Format with Prettier                    |
-| `npm run ogp`     | Regenerate `public/ogp.png` with Satori |
+| `bun run dev`     | Start the Vite dev server               |
+| `bun run build`   | Type-check and build for production     |
+| `bun run preview` | Preview the production build            |
+| `bun run lint`    | Run ESLint                              |
+| `bun run format`  | Format with Prettier                    |
+| `bun run ogp`     | Regenerate `public/ogp.png` with Satori |
 
 ## License
 
